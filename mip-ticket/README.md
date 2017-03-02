@@ -39,19 +39,19 @@ mip-ticket 组件 适用于票价的选择、票数的增加和减少
 
 ### totalpay
 
-说明：需要填充总价的元素id
+说明：需要填充总价的元素
 必选项：否
 备注:  一个mip-ticket内只允许出现一个 totalpay
 
 ### totalnum
 
-说明：需要填充总数量的元素id
+说明：需要填充总数量的元素
 必选项：否
 备注:  一个mip-ticket内只允许出现一个 totalnum
 
 ### ticketname
 
-说明：需要填充票价名称的元素id
+说明：需要填充票价名称的元素
 必选项：否
 备注:  一个mip-ticket内只允许出现一个 ticketname
 
