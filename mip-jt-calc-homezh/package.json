@@ -1,0 +1,14 @@
+{
+    "name": "mip-jt-calc-homezh",
+    "version": "1.0.1",
+    "description": "报价转换器",
+    "contributors": [
+        {
+            "name": "jt",
+            "email": "open@cngold.org"
+        }
+    ],
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}

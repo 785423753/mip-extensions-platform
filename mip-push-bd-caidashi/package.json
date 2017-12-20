@@ -1,0 +1,14 @@
+{
+    "name": "mip-push-bd-caidashi",
+    "version": "1.0.0",
+    "description": "百度主动推送",
+    "contributors": [
+        {
+            "name": "xiaojinping",
+            "email": "290762142@qq.com"
+        }
+    ],
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}

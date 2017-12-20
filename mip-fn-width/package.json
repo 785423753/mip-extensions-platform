@@ -1,0 +1,12 @@
+{
+    "name": "mip-fn-width",
+    "version": "1.0.0",
+    "description": "蜂鸟网标签宽度计算",
+    "author": { 
+        "name": "fn",
+        "email": "tech@fengniao.com"
+    },  
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}

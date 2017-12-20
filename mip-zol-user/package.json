@@ -1,0 +1,14 @@
+{
+    "name": "mip-zol-user",
+    "version": "1.2.0",
+	"description": "追加获取用户信息接口设置",
+    
+    "author": {
+        "name": "mulianju",
+        "email": "mul.ianju@zol.com.cn"
+    },
+
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}

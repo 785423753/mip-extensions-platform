@@ -1,0 +1,14 @@
+{
+    "name": "mip-caidashi-mob",
+    "version": "1.0.0",
+    "description": "检测是否是pc端访问移动端，如果是，强制进入pc端，",
+    "contributors": [
+        {
+            "name": "xiaojinping",
+            "email": "290762142@qq.com"
+        }
+    ],
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "mip-kp-detail",
+    "version": "1.1.2",
+    "description": "用于kp详情页",
+    "contributors": [
+        {
+            "name": "yan",
+            "email": "ypx5945@163.com"
+        }
+    ],
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}

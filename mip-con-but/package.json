@@ -1,0 +1,14 @@
+{
+  "name": "mip-con-but",
+  "version": "1.0.0",
+  "description": "江苏民福康,多功能控制按钮",
+  "author": {
+    "name": "xiaolong",
+    "email": "864855920@qq.com",
+    "url":"https://mip.39yst.com"
+  },
+
+  "engines": {
+    "mip": ">=1.1.0"
+  }
+}
